@@ -12,4 +12,4 @@ if __name__ == "__main__":
     if os.name == 'nt':  # Windows
         run_batch_file()
     else:
-        print("This script is designed for Windows. Please use the appropriate script for your OS.")
+        print("This script is designed for Windows. Please use the appropriate script for your OS. 555")
