@@ -1,0 +1,92 @@
+[
+    [
+        "Sat, 07 Sep 2024 15:07:21 GMT",
+        "False",
+        "Sat, 07 Sep 2024 15:07:21 GMT"
+    ],
+    [
+        "Sat, 07 Sep 2024 15:00:03 GMT",
+        "False",
+        "Sat, 07 Sep 2024 15:00:03 GMT"
+    ],
+    [
+        "Fri, 999 Aug 2024 19:44:43 GMT",
+        "True",
+        "Fri, 16 Aug 2024 19:44:43 GMT"
+    ],
+    [
+        "Fri, 16 Aug 2024 19:44:27 GMT",
+        "True",
+        "Fri, 16 Aug 2024 19:44:27 GMT"
+    ],
+    [
+        "Fri, 16 Aug 2024 19:44:16 GMT",
+        "True",
+        "Fri, 16 Aug 2024 19:44:16 GMT"
+    ],
+    [
+        "Fri, 16 Aug 2024 19:43:20 GMT",
+        "False",
+        "Fri, 16 Aug 2024 19:43:20 GMT"
+    ],
+    [
+        "Fri, 16 Aug 2024 19:40:08 GMT",
+        "Kuy",
+        "Fri, 16 Aug 2024 19:40:08 GMT"
+    ],
+    [
+        "Fri, 16 Aug 2024 19:39:20 GMT",
+        "Kuy",
+        "Fri, 16 Aug 2024 19:39:20 GMT"
+    ],
+    [
+        "Fri, 1 Aug 2024 16:32:25 GMT",
+        "False",
+        "Fri, 16 Aug 2024 11:32:16 GMT"
+    ],
+    [
+        "Fri, 2 Aug 2024 16:30:09 GMT",
+        "False",
+        "Fri, 16 Aug 2024 11:29:55 GMT"
+    ],
+    [
+        "Wed, 3 May 2024 07:00:29 GMT",
+        "False",
+        "Wed, 01 May 2024 07:00:29 GMT"
+    ],
+    [
+        "Wed, 4 May 2024 07:00:28 GMT",
+        "True",
+        "Wed, 01 May 2024 07:00:28 GMT"
+    ],
+    [
+        "Wed, 5 May 2024 07:00:27 GMT",
+        "False",
+        "Wed, 01 May 2024 07:00:27 GMT"
+    ],
+    [
+        "Fri, 6 Aug 2024 16:32:25 GMT",
+        "False",
+        "Fri, 16 Aug 2024 11:32:16 GMT"
+    ],
+    [
+        "Fri, 7 Aug 2024 16:30:09 GMT",
+        "False",
+        "Fri, 16 Aug 2024 11:29:55 GMT"
+    ],
+    [
+        "Wed, 01 May 2024 07:00:29 GMT",
+        "False",
+        "Wed, 01 May 2024 07:00:29 GMT"
+    ],
+    [
+        "Wed, 01 May 2024 07:00:28 GMT",
+        "True",
+        "Wed, 01 May 2024 07:00:28 GMT"
+    ],
+    [
+        "Wed, 01 May 2024 07:00:27 GMT",
+        "False",
+        "Wed, 01 May 2024 07:00:27 GMT"
+    ]
+]
